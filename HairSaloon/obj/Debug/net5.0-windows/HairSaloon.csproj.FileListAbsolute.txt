@@ -1,0 +1,120 @@
+C:\Users\ACER\Desktop\igor project\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\ACER\Desktop\igor project\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\ACER\Desktop\igor project\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\ACER\Desktop\igor project\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\HairSaloon_MarkupCompile.cache
+C:\Users\ACER\Desktop\igor project\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\HairSaloon_MarkupCompile.lref
+C:\Users\Gautham Manohar\Downloads\HairSaloon11\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Gautham Manohar\Downloads\HairSaloon11\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Gautham Manohar\Downloads\HairSaloon11\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Gautham Manohar\Downloads\HairSaloon11\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\HairSaloon_MarkupCompile.cache
+C:\Users\Gautham Manohar\Downloads\HairSaloon11\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\HairSaloon_MarkupCompile.lref
+C:\Users\Gautham Manohar\Downloads\HairSaloon11\HairSaloon\HairSaloon\bin\Debug\net5.0-windows\HairSaloon.exe
+C:\Users\Gautham Manohar\Downloads\HairSaloon11\HairSaloon\HairSaloon\bin\Debug\net5.0-windows\HairSaloon.deps.json
+C:\Users\Gautham Manohar\Downloads\HairSaloon11\HairSaloon\HairSaloon\bin\Debug\net5.0-windows\HairSaloon.runtimeconfig.json
+C:\Users\Gautham Manohar\Downloads\HairSaloon11\HairSaloon\HairSaloon\bin\Debug\net5.0-windows\HairSaloon.runtimeconfig.dev.json
+C:\Users\Gautham Manohar\Downloads\HairSaloon11\HairSaloon\HairSaloon\bin\Debug\net5.0-windows\HairSaloon.dll
+C:\Users\Gautham Manohar\Downloads\HairSaloon11\HairSaloon\HairSaloon\bin\Debug\net5.0-windows\ref\HairSaloon.dll
+C:\Users\Gautham Manohar\Downloads\HairSaloon11\HairSaloon\HairSaloon\bin\Debug\net5.0-windows\HairSaloon.pdb
+C:\Users\Gautham Manohar\Downloads\HairSaloon11\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Gautham Manohar\Downloads\HairSaloon11\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\HairSaloon.g.resources
+C:\Users\Gautham Manohar\Downloads\HairSaloon11\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\HairSaloon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gautham Manohar\Downloads\HairSaloon11\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\HairSaloon.AssemblyInfoInputs.cache
+C:\Users\Gautham Manohar\Downloads\HairSaloon11\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\HairSaloon.AssemblyInfo.cs
+C:\Users\Gautham Manohar\Downloads\HairSaloon11\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\HairSaloon.csproj.CoreCompileInputs.cache
+C:\Users\Gautham Manohar\Downloads\HairSaloon11\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\HairSaloon.dll
+C:\Users\Gautham Manohar\Downloads\HairSaloon11\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\ref\HairSaloon.dll
+C:\Users\Gautham Manohar\Downloads\HairSaloon11\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\HairSaloon.pdb
+C:\Users\Gautham Manohar\Downloads\HairSaloon11\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\HairSaloon.genruntimeconfig.cache
+C:\Users\Gautham Manohar\Downloads\HairSaloon11\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\HairSaloon.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\igor temp\HairSaloon\HairSaloon\HairSaloon\bin\Debug\net5.0-windows\HairSaloon.exe
+C:\Users\ACER\Desktop\igor temp\HairSaloon\HairSaloon\HairSaloon\bin\Debug\net5.0-windows\HairSaloon.deps.json
+C:\Users\ACER\Desktop\igor temp\HairSaloon\HairSaloon\HairSaloon\bin\Debug\net5.0-windows\HairSaloon.runtimeconfig.json
+C:\Users\ACER\Desktop\igor temp\HairSaloon\HairSaloon\HairSaloon\bin\Debug\net5.0-windows\HairSaloon.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\igor temp\HairSaloon\HairSaloon\HairSaloon\bin\Debug\net5.0-windows\HairSaloon.dll
+C:\Users\ACER\Desktop\igor temp\HairSaloon\HairSaloon\HairSaloon\bin\Debug\net5.0-windows\ref\HairSaloon.dll
+C:\Users\ACER\Desktop\igor temp\HairSaloon\HairSaloon\HairSaloon\bin\Debug\net5.0-windows\HairSaloon.pdb
+C:\Users\ACER\Desktop\igor temp\HairSaloon\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\HairSaloon.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\igor temp\HairSaloon\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\ACER\Desktop\igor temp\HairSaloon\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\ACER\Desktop\igor temp\HairSaloon\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\ACER\Desktop\igor temp\HairSaloon\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\HairSaloon_MarkupCompile.cache
+C:\Users\ACER\Desktop\igor temp\HairSaloon\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\HairSaloon_MarkupCompile.lref
+C:\Users\ACER\Desktop\igor temp\HairSaloon\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\ACER\Desktop\igor temp\HairSaloon\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\HairSaloon.g.resources
+C:\Users\ACER\Desktop\igor temp\HairSaloon\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\HairSaloon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\igor temp\HairSaloon\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\HairSaloon.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\igor temp\HairSaloon\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\HairSaloon.AssemblyInfo.cs
+C:\Users\ACER\Desktop\igor temp\HairSaloon\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\HairSaloon.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\igor temp\HairSaloon\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\HairSaloon.dll
+C:\Users\ACER\Desktop\igor temp\HairSaloon\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\ref\HairSaloon.dll
+C:\Users\ACER\Desktop\igor temp\HairSaloon\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\HairSaloon.pdb
+C:\Users\ACER\Desktop\igor temp\HairSaloon\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\HairSaloon.genruntimeconfig.cache
+C:\Users\sudhi\OneDrive\Desktop\SOFTWARE_PROJECT\HairSaloon 9\HairSaloon\HairSaloon\bin\Debug\net5.0-windows\HairSaloon.exe
+C:\Users\sudhi\OneDrive\Desktop\SOFTWARE_PROJECT\HairSaloon 9\HairSaloon\HairSaloon\bin\Debug\net5.0-windows\HairSaloon.deps.json
+C:\Users\sudhi\OneDrive\Desktop\SOFTWARE_PROJECT\HairSaloon 9\HairSaloon\HairSaloon\bin\Debug\net5.0-windows\HairSaloon.runtimeconfig.json
+C:\Users\sudhi\OneDrive\Desktop\SOFTWARE_PROJECT\HairSaloon 9\HairSaloon\HairSaloon\bin\Debug\net5.0-windows\HairSaloon.runtimeconfig.dev.json
+C:\Users\sudhi\OneDrive\Desktop\SOFTWARE_PROJECT\HairSaloon 9\HairSaloon\HairSaloon\bin\Debug\net5.0-windows\HairSaloon.dll
+C:\Users\sudhi\OneDrive\Desktop\SOFTWARE_PROJECT\HairSaloon 9\HairSaloon\HairSaloon\bin\Debug\net5.0-windows\ref\HairSaloon.dll
+C:\Users\sudhi\OneDrive\Desktop\SOFTWARE_PROJECT\HairSaloon 9\HairSaloon\HairSaloon\bin\Debug\net5.0-windows\HairSaloon.pdb
+C:\Users\sudhi\OneDrive\Desktop\SOFTWARE_PROJECT\HairSaloon 9\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\HairSaloon.csproj.AssemblyReference.cache
+C:\Users\sudhi\OneDrive\Desktop\SOFTWARE_PROJECT\HairSaloon 9\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\sudhi\OneDrive\Desktop\SOFTWARE_PROJECT\HairSaloon 9\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\sudhi\OneDrive\Desktop\SOFTWARE_PROJECT\HairSaloon 9\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\sudhi\OneDrive\Desktop\SOFTWARE_PROJECT\HairSaloon 9\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\HairSaloon_MarkupCompile.cache
+C:\Users\sudhi\OneDrive\Desktop\SOFTWARE_PROJECT\HairSaloon 9\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\HairSaloon_MarkupCompile.lref
+C:\Users\sudhi\OneDrive\Desktop\SOFTWARE_PROJECT\HairSaloon 9\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\sudhi\OneDrive\Desktop\SOFTWARE_PROJECT\HairSaloon 9\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\HairSaloon.g.resources
+C:\Users\sudhi\OneDrive\Desktop\SOFTWARE_PROJECT\HairSaloon 9\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\HairSaloon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudhi\OneDrive\Desktop\SOFTWARE_PROJECT\HairSaloon 9\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\HairSaloon.AssemblyInfoInputs.cache
+C:\Users\sudhi\OneDrive\Desktop\SOFTWARE_PROJECT\HairSaloon 9\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\HairSaloon.AssemblyInfo.cs
+C:\Users\sudhi\OneDrive\Desktop\SOFTWARE_PROJECT\HairSaloon 9\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\HairSaloon.csproj.CoreCompileInputs.cache
+C:\Users\sudhi\OneDrive\Desktop\SOFTWARE_PROJECT\HairSaloon 9\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\HairSaloon.dll
+C:\Users\sudhi\OneDrive\Desktop\SOFTWARE_PROJECT\HairSaloon 9\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\ref\HairSaloon.dll
+C:\Users\sudhi\OneDrive\Desktop\SOFTWARE_PROJECT\HairSaloon 9\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\HairSaloon.pdb
+C:\Users\sudhi\OneDrive\Desktop\SOFTWARE_PROJECT\HairSaloon 9\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\HairSaloon.genruntimeconfig.cache
+C:\Users\ACER\Desktop\igor 1\HairSaloon 10\HairSaloon 9\HairSaloon\HairSaloon\bin\Debug\net5.0-windows\HairSaloon.exe
+C:\Users\ACER\Desktop\igor 1\HairSaloon 10\HairSaloon 9\HairSaloon\HairSaloon\bin\Debug\net5.0-windows\HairSaloon.deps.json
+C:\Users\ACER\Desktop\igor 1\HairSaloon 10\HairSaloon 9\HairSaloon\HairSaloon\bin\Debug\net5.0-windows\HairSaloon.runtimeconfig.json
+C:\Users\ACER\Desktop\igor 1\HairSaloon 10\HairSaloon 9\HairSaloon\HairSaloon\bin\Debug\net5.0-windows\HairSaloon.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\igor 1\HairSaloon 10\HairSaloon 9\HairSaloon\HairSaloon\bin\Debug\net5.0-windows\HairSaloon.dll
+C:\Users\ACER\Desktop\igor 1\HairSaloon 10\HairSaloon 9\HairSaloon\HairSaloon\bin\Debug\net5.0-windows\ref\HairSaloon.dll
+C:\Users\ACER\Desktop\igor 1\HairSaloon 10\HairSaloon 9\HairSaloon\HairSaloon\bin\Debug\net5.0-windows\HairSaloon.pdb
+C:\Users\ACER\Desktop\igor 1\HairSaloon 10\HairSaloon 9\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\HairSaloon.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\igor 1\HairSaloon 10\HairSaloon 9\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\ACER\Desktop\igor 1\HairSaloon 10\HairSaloon 9\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\ACER\Desktop\igor 1\HairSaloon 10\HairSaloon 9\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\ACER\Desktop\igor 1\HairSaloon 10\HairSaloon 9\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\HairSaloon_MarkupCompile.cache
+C:\Users\ACER\Desktop\igor 1\HairSaloon 10\HairSaloon 9\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\HairSaloon_MarkupCompile.lref
+C:\Users\ACER\Desktop\igor 1\HairSaloon 10\HairSaloon 9\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\ACER\Desktop\igor 1\HairSaloon 10\HairSaloon 9\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\HairSaloon.g.resources
+C:\Users\ACER\Desktop\igor 1\HairSaloon 10\HairSaloon 9\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\HairSaloon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\igor 1\HairSaloon 10\HairSaloon 9\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\HairSaloon.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\igor 1\HairSaloon 10\HairSaloon 9\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\HairSaloon.AssemblyInfo.cs
+C:\Users\ACER\Desktop\igor 1\HairSaloon 10\HairSaloon 9\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\HairSaloon.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\igor 1\HairSaloon 10\HairSaloon 9\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\HairSaloon.dll
+C:\Users\ACER\Desktop\igor 1\HairSaloon 10\HairSaloon 9\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\ref\HairSaloon.dll
+C:\Users\ACER\Desktop\igor 1\HairSaloon 10\HairSaloon 9\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\HairSaloon.pdb
+C:\Users\ACER\Desktop\igor 1\HairSaloon 10\HairSaloon 9\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\HairSaloon.genruntimeconfig.cache
+C:\Users\ACER\Desktop\FinalwithoutComment\HairSaloon\HairSaloon\bin\Debug\net5.0-windows\HairSaloon.exe
+C:\Users\ACER\Desktop\FinalwithoutComment\HairSaloon\HairSaloon\bin\Debug\net5.0-windows\HairSaloon.deps.json
+C:\Users\ACER\Desktop\FinalwithoutComment\HairSaloon\HairSaloon\bin\Debug\net5.0-windows\HairSaloon.runtimeconfig.json
+C:\Users\ACER\Desktop\FinalwithoutComment\HairSaloon\HairSaloon\bin\Debug\net5.0-windows\HairSaloon.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\FinalwithoutComment\HairSaloon\HairSaloon\bin\Debug\net5.0-windows\HairSaloon.dll
+C:\Users\ACER\Desktop\FinalwithoutComment\HairSaloon\HairSaloon\bin\Debug\net5.0-windows\ref\HairSaloon.dll
+C:\Users\ACER\Desktop\FinalwithoutComment\HairSaloon\HairSaloon\bin\Debug\net5.0-windows\HairSaloon.pdb
+C:\Users\ACER\Desktop\FinalwithoutComment\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\HairSaloon.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\FinalwithoutComment\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\ACER\Desktop\FinalwithoutComment\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\ACER\Desktop\FinalwithoutComment\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\ACER\Desktop\FinalwithoutComment\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\HairSaloon_MarkupCompile.cache
+C:\Users\ACER\Desktop\FinalwithoutComment\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\HairSaloon_MarkupCompile.lref
+C:\Users\ACER\Desktop\FinalwithoutComment\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\ACER\Desktop\FinalwithoutComment\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\HairSaloon.g.resources
+C:\Users\ACER\Desktop\FinalwithoutComment\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\HairSaloon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\FinalwithoutComment\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\HairSaloon.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\FinalwithoutComment\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\HairSaloon.AssemblyInfo.cs
+C:\Users\ACER\Desktop\FinalwithoutComment\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\HairSaloon.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\FinalwithoutComment\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\HairSaloon.dll
+C:\Users\ACER\Desktop\FinalwithoutComment\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\ref\HairSaloon.dll
+C:\Users\ACER\Desktop\FinalwithoutComment\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\HairSaloon.pdb
+C:\Users\ACER\Desktop\FinalwithoutComment\HairSaloon\HairSaloon\obj\Debug\net5.0-windows\HairSaloon.genruntimeconfig.cache

@@ -1,0 +1,188 @@
+﻿<Window x:Class="HairSaloon.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HairSaloon"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="935" Width="1230" WindowStartupLocation="Manual" Top="0">
+    <Grid>
+        <Grid.Resources>
+            <local:Converter x:Key="Converter"/>
+        </Grid.Resources>
+
+        <StackPanel Background="AliceBlue">
+            <Label Content="Hair Salon" HorizontalContentAlignment="Center" HorizontalAlignment="Stretch" FontWeight="Bold" Margin="0,0,0,0" FontSize="16" Foreground="White" Background="#FF364BF1" Width="1200"/>
+            <StackPanel HorizontalAlignment="Center" VerticalAlignment="Top"/>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0 15 0 0">
+                <StackPanel Width="1219" Margin="0 -5 0 0">
+
+                    <StackPanel Orientation="Horizontal" Height="140">
+                        <StackPanel Orientation="Vertical" Height="150" Width="490" Margin="70,0,-3,0">
+                            <StackPanel Height="35" Orientation="Horizontal" Margin="15,0,0,0" >
+                                <Label FontFamily="Serif" Content="Time slot" Width="75" Height="23"/>
+                                <ComboBox  Width="220" x:Name="timeSlot" SelectedIndex="0" Height="23" BorderBrush="#FF364BF1" >
+                                    <ComboBox.Background>
+                                        <LinearGradientBrush EndPoint="0,1">
+                                            <GradientStop Color="#FFF0F0F0"/>
+                                            <GradientStop Color="Gray" Offset="1"/>
+                                        </LinearGradientBrush>
+                                    </ComboBox.Background>
+                                </ComboBox>
+                            </StackPanel>
+
+                            <StackPanel Height="35" Orientation="Horizontal" Margin="15,0,0,0" >
+                                <Label Height="23" FontFamily="Serif" Content="Name" Width="75" />
+                                <TextBox Height="23" Width="220" TextWrapping="Wrap" Text="" x:Name="txtNameEle" BorderBrush="Gray" GotFocus="NameFocusEvent" />
+                                <Label x:Name="errorNameEle" FontFamily="Serif" Content="Please Enter Name" Foreground="Red" Width="220" Height="23" FontSize="10" Visibility="Hidden" />
+                            </StackPanel>
+
+                            <StackPanel Height="35" Orientation="Horizontal" Width="480" Margin="15,0,0,0" >
+                                <Label Height="23" FontFamily="Serif" Content="Phone No:" Width="75" />
+                                <TextBox Height="23" Width="220" TextWrapping="Wrap" Text="" x:Name="txtPhoneEle" BorderBrush="Gray" GotFocus="PhoneFocusEvent" />
+                                <Label x:Name="errorPhoneEle" FontFamily="Serif" Content="Enter Valid Phone Number (10 Digits)" Foreground="Red" Width="220" Height="23" FontSize="10" Visibility="Hidden" />
+                            </StackPanel>
+
+                        </StackPanel>
+
+                        <StackPanel Width="600" Height="150" Orientation="Vertical" Margin="10 0 0 0">
+                            <StackPanel Height="35" Orientation="Horizontal" Margin="15,0,0,0">
+                                <Label  Height="23" FontFamily="Serif" Content="Age" Width="100"/>
+                                <TextBox Height="23" Width="220" TextWrapping="Wrap" Text="" Name="txtAgeEle"  BorderBrush="Gray" GotFocus="AgeFocusEvent"/>
+                                <Label FontFamily="Serif" Content="Enter Age between 1 to 80" Foreground="Red" Width="220" Height="23" FontSize="10" Visibility="Hidden" Name="errorAgeEle"/>
+                            </StackPanel>
+
+
+                            <StackPanel Margin="13,0,0,0" Orientation="Horizontal" Height="35" >
+                                <Label Height="23" FontFamily="Serif" Content="Credit Card No:" Width="100"/>
+                                <TextBox Height="23" Width="220" TextWrapping="Wrap" Text="" Name="txtCreditEle"  BorderBrush="Gray" GotFocus="CreditCardFocusEvent"/>
+                                <Label FontFamily="Serif" Content="Enter a Valid Credit Card Number (16 Digits)" Foreground="Red" Width="220" Height="23" FontSize="10" Visibility="Hidden" Name="errorCreditEle" />
+                            </StackPanel>
+
+                            <StackPanel Height="35" Orientation="Horizontal" Margin="15,0,0,0" >
+                                <Label Height="23" FontFamily="Serif" Content="Email:" Width="100" />
+                                <TextBox Height="23" Width="220" TextWrapping="Wrap" Text="" x:Name="txtEmailEle"  BorderBrush="Gray" GotFocus="EmailFocusEvent" />
+                                <Label x:Name="errorEmailEle" FontFamily="Serif" Content="Enter Valid Email" Foreground="Red" Width="220" Height="23" FontSize="10" Visibility="Hidden" />
+                            </StackPanel>
+
+                        </StackPanel>
+                        
+                    </StackPanel>
+                    
+                    <StackPanel Margin="-50,-30,0,0" Orientation="Horizontal" Height="60" Width="1000">
+                        <Label FontFamily="Serif" Content="Gender" Width="120" />
+                        <StackPanel Margin="-46,0,0,0" Orientation="Vertical" Height="60" Width="100">
+                            <RadioButton Content="Men" Margin="0 0 0 0" Width="95" HorizontalAlignment="Left" Name="radioMenEle" GroupName="Gender" Checked="GenderCheck" IsChecked="True" BorderBrush="#FF364BF1" />
+                            <RadioButton Content="Women" Margin="0 5 0 0" Width="100" HorizontalAlignment="Left" Name="radioWomenEle" GroupName="Gender" Checked="GenderCheck" BorderBrush="#FF364BF1"/>
+                            <RadioButton Content="Child" Margin="0 5 0 0" Width="100" HorizontalAlignment="Left" Name="radioChildEle" GroupName="Gender" Checked="GenderCheck" BorderBrush="#FF364BF1"/>
+                        </StackPanel>
+                    </StackPanel>
+
+                    <StackPanel Margin="-50,10,0,0" Orientation="Horizontal" Height="95" Width="1000">
+                        <Label FontFamily="Serif" Content="Services" Width="120" x:Name="lblServices"/>
+                        <StackPanel Margin="-46,0,0,0" Orientation="Vertical" Height="95" Width="125">
+                            <StackPanel x:Name="stackMenEle" Orientation="Vertical" Visibility="Visible" >
+                                <Grid>
+                                    <CheckBox Content="Beard Trim" Margin="0 0 0 0"  VerticalAlignment="Center" HorizontalAlignment="Left" Unchecked="StyleUnChecked" Checked="StyleChecked" x:Name="chkTrimBeardMenEle" Width="80" BorderBrush="#FF364BF1"/>
+                                    <Label FontFamily="Serif" Margin="0,0,0,0" Content="($10)"  HorizontalAlignment="Right" VerticalAlignment="Top" ></Label>
+                                </Grid>
+                                <Grid>
+                                    <CheckBox Content="Hair Trim" Margin="0 5 0 0" HorizontalAlignment="Left" Unchecked="StyleUnChecked" Checked="StyleChecked" x:Name="chkTrimHairMenEle" Width="130" BorderBrush="#FF364BF1"/>
+                                    <Label FontFamily="Serif" Margin="0,0,0,0" Content="($15)"  HorizontalAlignment="Right" VerticalAlignment="Top" ></Label>
+                                </Grid>
+                                <Grid>
+                                    <CheckBox Content="Hair Wash" Margin="0 5 0 0" HorizontalAlignment="Left" Unchecked="StyleUnChecked" Checked="StyleChecked" x:Name="chkHairWashMenEle" Width="130" BorderBrush="#FF364BF1" />
+                                    <Label FontFamily="Serif" Margin="0,0,0,0" Content="($12)"  HorizontalAlignment="Right" VerticalAlignment="Top" ></Label>
+                                </Grid>
+                                <Grid>
+                                    <CheckBox Content="Hair Color" Margin="0 5 0 0" HorizontalAlignment="Left" Unchecked="StyleUnChecked" Checked="StyleChecked" x:Name="chkHairColorMenEle" Width="130" BorderBrush="#FF364BF1"/>
+                                    <Label FontFamily="Serif" Margin="0,0,0,0" Content="($20)"  HorizontalAlignment="Right" VerticalAlignment="Top" ></Label>
+                                </Grid>
+
+                            </StackPanel>
+
+                            <StackPanel x:Name="stackWomenEle" Orientation="Vertical" Visibility="Collapsed">
+                                <Grid>
+                                    <CheckBox Content="Hair Dressing" Margin="0 0 0 0" HorizontalAlignment="Left" VerticalAlignment="Center" Unchecked="StyleUnChecked" Checked="StyleChecked" x:Name="chkHairDressingWomenEle" Width="150" BorderBrush="#FF364BF1"/>
+                                    <Label FontFamily="Serif" Margin="0,0,0,0" Content="($13)"  HorizontalAlignment="Right" VerticalAlignment="Top" ></Label>
+                                </Grid>
+                                <Grid>
+                                    <CheckBox Content="Hair Wash" Margin="0 5 0 0" HorizontalAlignment="Left"  Unchecked="StyleUnChecked" Checked="StyleChecked" x:Name="chkHairWashWomenEle" Width="130" BorderBrush="#FF364BF1"/>
+                                    <Label FontFamily="Serif" Margin="0,0,0,0" Content="($20)"  HorizontalAlignment="Right" VerticalAlignment="Top" ></Label>
+                                </Grid>
+                                <Grid>
+                                    <CheckBox Content="Hair Color" Margin="0 5 0 0" HorizontalAlignment="Left" Unchecked="StyleUnChecked" Checked="StyleChecked" x:Name="chkHairColorWomenEle" Width="130" BorderBrush="#FF364BF1" />
+                                    <Label FontFamily="Serif" Margin="0,0,0,0" Content="($30)"  HorizontalAlignment="Right" VerticalAlignment="Top" ></Label>
+                                </Grid>
+                                <Grid>
+                                    <CheckBox Content="Hair Trim" Margin="0 5 0 0" HorizontalAlignment="Left" Unchecked="StyleUnChecked" Checked="StyleChecked" x:Name="chkHairTrimWomenEle" Width="130" BorderBrush="#FF364BF1"/>
+                                    <Label FontFamily="Serif" Margin="0,0,0,0" Content="($20)"  HorizontalAlignment="Right" VerticalAlignment="Top" ></Label>
+                                </Grid>
+                            </StackPanel>
+
+                            <StackPanel x:Name="stackChildEle" Orientation="Vertical" Visibility="Collapsed">
+                                <Grid>
+                                    <CheckBox Content="Trim Hair" Margin="0 0 0 0" VerticalAlignment="Center" HorizontalAlignment="Left" Unchecked="StyleUnChecked" Checked="StyleChecked" x:Name="chkTrimHairChildEle" Width="150" BorderBrush="#FF364BF1"/>
+                                    <Label FontFamily="Serif" Margin="0,0,0,0" Content="($15)"  HorizontalAlignment="Right" VerticalAlignment="Top" ></Label>
+                                </Grid>
+                                <Grid>
+                                    <CheckBox Content="Hair Color" Margin="0 5 0 0" HorizontalAlignment="Left" Unchecked="StyleUnChecked" Checked="StyleChecked" x:Name="chkHairColorChildEle" Width="150" BorderBrush="#FF364BF1" />
+                                    <Label FontFamily="Serif" Margin="0,0,0,0" Content="($20)"  HorizontalAlignment="Right" VerticalAlignment="Top" ></Label>
+                                </Grid>
+                                <Grid>
+                                    <CheckBox Content="Hair Wash" Margin="0 5 0 0" HorizontalAlignment="Left" Unchecked="StyleUnChecked" Checked="StyleChecked" x:Name="chkHairWashChildEle" Width="150" BorderBrush="#FF364BF1"/>
+                                    <Label FontFamily="Serif" Margin="0,0,0,0" Content="($10)"  HorizontalAlignment="Right" VerticalAlignment="Top" ></Label>
+                                </Grid>
+                            </StackPanel>
+                        </StackPanel>
+                        <Label FontFamily="Serif" Content="Please Select Any Service" Foreground="Red" Width="220" FontSize="10" Visibility="Hidden" x:Name="errorServicesEle" />
+                    </StackPanel>
+
+                    <StackPanel Margin="-35,15,0,0" Orientation="Horizontal" Height="25" Width="1000">
+                        <CheckBox Content="Vaccinated Against Covid19" Margin="0 5 0 0" HorizontalAlignment="Left" x:Name="chkVaccineEle" Width="900" BorderBrush="#FF364BF1"/>
+                    </StackPanel>
+
+                    <StackPanel Margin="93 15 0 0" Orientation="Horizontal" Height="40" HorizontalAlignment="Left" Width="330">
+                        <Button Content="Book and Save Appointment"  Width="200" Height="30" Name="btnSaveAppointmentEle" Click="btnSaveAppointment_Click" Background="#FF364BF1" Foreground="White"/>
+                        <Label Content="Total Price: $" VerticalAlignment="Bottom"></Label>
+                        <Label x:Name="lblTotalPrice" Content="0" FontSize="25" FontWeight="DemiBold"></Label>
+                    </StackPanel>
+
+                    <StackPanel Margin="80 20 0 10" Width="1100" Orientation="Horizontal" HorizontalAlignment="Left">
+                        <Label HorizontalAlignment="center" VerticalAlignment="Center"  FontFamily="Serif" Content="Search by:" Width="90" />
+                        <RadioButton Content="Name" VerticalAlignment="Center" Margin="0,12,0,12.5" Width="50" GroupName="search" Name="chkNameSearchEle" Checked="SelectedSearchByType" IsChecked="True" BorderBrush="#FF364BF1" />
+                        <RadioButton Content="Email" VerticalAlignment="Center" Margin="5,12,0,12.5" Width="60" GroupName="search" Name="chkEmailSearchEle" Checked="SelectedSearchByType"  BorderBrush="#FF364BF1"/>
+                        <TextBox Height="30" Width="200" TextWrapping="Wrap" Text="" Name="txtSearchEle" BorderBrush="#FF364BF1" />
+                       <Button Margin="30 0 0 0" Content="Search Appointment" Width="175" Height="30" Name="btnSearchAppointmentEle" Click="btnSearchAppointment_Click" Foreground="#FFF7F7F7" Background="#FF364BF1" />
+                        <Button Margin="30 0 0 0" Content="View All" Width="150" Height="30" Name="btnViewAllAppointmentEle" Click="btnViewAllAppointment_Click" Background="#FF364BF1" Foreground="#FFFBF9F9" />
+                       <Button Margin="30 0 0 0" Content="Delete Selected Appointment" Width="200" Height="30" Name="btnDeleteAppointmentEle" Click="btnDeleteAppointment_Click" Background="#FF364BF1" Foreground="#FFFBF9F9" /> 
+                    </StackPanel>
+                </StackPanel>
+            </StackPanel>
+
+            <StackPanel Width="1200" HorizontalAlignment="Center" VerticalAlignment="Top" Orientation="Vertical" >
+                <DataGrid Height="250" Name="gridEle" ItemsSource="{Binding Path=ObservableAppointment}" AutoGenerateColumns="False" IsReadOnly="True"  Width="1200"   BorderBrush="#FF364BF1">
+                    <DataGrid.RowStyle>
+                        <Style TargetType="DataGridRow">
+                            <Setter Property="Background" Value="{Binding Path=., Converter={StaticResource Converter}}" />
+                        </Style>
+                    </DataGrid.RowStyle>
+                    <DataGrid.Columns>
+                        <DataGridTextColumn MinWidth="80" Header="Time Slot" Binding="{Binding timeSlot}"/>
+                        <DataGridTextColumn MinWidth="80" Header="Gender" Binding="{Binding Gender}"/>
+                        <DataGridTextColumn MinWidth="100" Header="Name" Binding="{Binding Customer.Name}"/>
+                        <DataGridTextColumn MinWidth="70" Header="Age" Binding="{Binding Customer.Age}"/>
+                        <DataGridTextColumn MinWidth="120" Header="Phone Number" Binding="{Binding Customer.PhoneNumber}"/>
+                        <DataGridTextColumn MinWidth="210" Header="Email" Binding="{Binding Customer.Email}"/>
+                        <DataGridTextColumn MinWidth="222" Header="Services" Binding="{Binding Services}"/>
+                        <DataGridTextColumn MinWidth="150" Header="Credit Card" Binding="{Binding Customer.CreditCard}"/>
+                        <DataGridTextColumn MinWidth="80" Header="Vaccinated" Binding="{Binding Customer.Vaccinated}"/>
+                        <DataGridTextColumn MinWidth="80" Header="Total Price($)" Binding="{Binding TotalPayment}"/>
+                    </DataGrid.Columns>
+                </DataGrid>
+            </StackPanel>
+
+        </StackPanel>
+
+    </Grid>
+</Window>
